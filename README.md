@@ -1,13 +1,5 @@
 # 👋 你好，我是 Endorphin1203
 
-## 📬 联系我
-
-如果你对我的项目、技术实践或 AI 应用开发感兴趣，欢迎交流！
-
-- 邮   箱：shengyanwu9@gmail.com
-- 主   页：[慎言的Effective Moments](https://endorphin1203.github.io/)
-- Tokens：[AI 使用统计主页](https://tokens.ci/u/Endorphin1203)
-
 ---
 
 ### 软件工程背景 · 电子信息硕士研究生 · Java 后端开发 / AI Agent 探索者
@@ -119,6 +111,14 @@ Vue · CSS · Spring Boot · MyBatis · MySQL
 
 [![AI Token Usage](https://img.shields.io/badge/AI_Token_Usage-2.79B-8B5CF6?style=for-the-badge&logo=openai&logoColor=white)](https://tokens.ci/u/Endorphin1203)
 
+---
+## 📬 联系我
+
+如果你对我的项目、技术实践或 AI 应用开发感兴趣，欢迎交流！
+
+- 邮   箱：shengyanwu9@gmail.com
+- 主   页：[慎言的Effective Moments](https://endorphin1203.github.io/)
+- Tokens：[AI 使用统计主页](https://tokens.ci/u/Endorphin1203)
 ---
 
 ⭐ **保持好奇，持续学习，认真写好每一行代码。**
