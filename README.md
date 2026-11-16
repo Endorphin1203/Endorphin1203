@@ -47,7 +47,7 @@
 
 ## 🚀 项目经历
 
-### 1. 基于 Spring Boot 的在线教育系统
+### 1. 基于 Spring Cloud 的在线教育系统
 
 一个集课程管理、在线学习、订单支付与智能问答于一体的在线教育平台。
 
@@ -57,7 +57,7 @@
 - 集成 MinIO 实现媒体资源管理。
 - 探索协同过滤推荐与大语言模型智能问答。
 
-**技术栈：** Java、Spring Boot、Vue、MySQL、Redis、RabbitMQ、Elasticsearch、MinIO
+**技术栈：** Java、Spring Cloud、Vue、MySQL、Redis、RabbitMQ、Elasticsearch、MinIO
 
 ### 2. AI Agent 应用与后端工程实践
 
@@ -79,7 +79,7 @@
 - 开发教师监督与教学管理功能。
 - 集成 AI 智能问答，辅助学生解决实验学习问题。
 
-**技术栈：** Vue、Spring Boot、MyBatis、MySQL
+**技术栈：** Vue、CSS、Spring Boot、MyBatis、MySQL
 
 ---
 
@@ -89,30 +89,16 @@
 
 ### 我的 AI 使用数据
 
-<sub>统计周期：2026.06.29 — 2026.11.16</sub>
+[![Tokens Stats](https://tokens.ci/api/embed/Endorphin1203/svg?theme=light&graph=1&today=1&tokens=compact&cost=compact)](https://tokens.ci/u/Endorphin1203)
 
-| 统计指标 | 使用数据 |
-|:---|---:|
-| 累计 Token 使用量 | **2,794,370,149** |
-| 模型估算费用 | **$1,075.31** |
-| 活跃天数 | **77 天** |
-| 会话数量 | **847 次** |
-| 使用模型 | **12 个** |
-| AI 客户端 | **5 个** |
+
 
 [![AI Token Usage](https://img.shields.io/badge/AI_Token_Usage-2.79B-8B5CF6?style=for-the-badge&logo=openai&logoColor=white)](https://tokens.ci/u/Endorphin1203)
 
-📊 [查看我的 Tokens 完整使用统计](https://tokens.ci/u/Endorphin1203)
+
 
 ---
 
-## 📈 GitHub 数据统计
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Endorphin1203&show_icons=true&theme=tokyonight&hide_border=true&locale=cn)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Endorphin1203&layout=compact&theme=tokyonight&hide_border=true&locale=cn)
-
----
 
 ## 📬 联系我
 
@@ -127,10 +113,6 @@
 ⭐ **保持好奇，持续学习，认真写好每一行代码。**
 
 *Keep Learning · Keep Building · Keep Exploring*
-
-## 🤖 My AI Coding Statistics
-
-[![Tokens Stats](https://tokens.ci/api/embed/Endorphin1203/svg?theme=light&graph=1&today=1&tokens=compact&cost=compact)](https://tokens.ci/u/Endorphin1203)
 
 
 <!---
