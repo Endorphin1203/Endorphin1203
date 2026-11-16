@@ -1,8 +1,18 @@
 # 👋 你好，我是 Endorphin1203
 
+## 📬 联系我
+
+如果你对我的项目、技术实践或 AI 应用开发感兴趣，欢迎交流！
+
+- 邮箱：mailto:shengyanwu9@gmail.com
+- GitHub：[Endorphin1203](https://github.com/Endorphin1203)
+- Tokens：[AI 使用统计主页](https://tokens.ci/u/Endorphin1203)
+
+---
+
 ### 软件工程背景 · 电子信息硕士研究生 · Java 后端开发 / AI Agent 探索者
 
-🎓 浙江师范大学 · 电子信息硕士研究生  
+🎓 浙江师范大学 · 电子信息硕士研究生(在读)
 💻 本科毕业于太原科技大学 · 软件工程专业  
 🤖 研究兴趣：人工智能、AI Agent、RAG 与大语言模型应用  
 ☕ 技术方向：Java 后端开发、Spring Boot、AI 应用工程化
@@ -91,22 +101,7 @@
 
 [![Tokens Stats](https://tokens.ci/api/embed/Endorphin1203/svg?theme=light&graph=1&today=1&tokens=compact&cost=compact)](https://tokens.ci/u/Endorphin1203)
 
-
-
 [![AI Token Usage](https://img.shields.io/badge/AI_Token_Usage-2.79B-8B5CF6?style=for-the-badge&logo=openai&logoColor=white)](https://tokens.ci/u/Endorphin1203)
-
-
-
----
-
-
-## 📬 联系我
-
-如果你对我的项目、技术实践或 AI 应用开发感兴趣，欢迎交流！
-
-- GitHub：[Endorphin1203](https://github.com/Endorphin1203)
-- 邮箱：你的公开邮箱（待补充）
-- Tokens：[AI 使用统计主页](https://tokens.ci/u/Endorphin1203)
 
 ---
 
@@ -114,8 +109,7 @@
 
 *Keep Learning · Keep Building · Keep Exploring*
 
-
 <!---
-Endorphin1203/Endorphin1203 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Endorphin1203/Endorphin1203 is a ✨ special ✨ repository because its README.md (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
