@@ -57,78 +57,57 @@
 
 ## 🚀 项目经历
 
-## 🚀 项目经历
+<table>
+<tr>
+<td width="33%" valign="top">
 
-\<table>
-\<tr>
-\<td width="33%" valign="top">
+<sub>毕业设计 / 项目实践</sub>
 
-\<sub>毕业设计 / 项目实践\</sub>
+🎓 在线教育系统
 
-### 🎓 在线教育系统
+基于 Spring Cloud 的在线教育平台
 
-**基于 Spring Cloud 的在线教育平台**
+集课程管理、在线学习、订单支付与智能问答于一体。
 
-面向在线教育场景，涵盖课程学习、订单支付与智能问答。
+核心工作
 
-**主要工作**
+参与前后端核心业务开发，实现用户认证、课程管理与订单支付；使用 Redis、RabbitMQ、Elasticsearch 完善系统能力，集成 MinIO 管理媒体资源，并探索协同过滤推荐与大模型问答。
 
-- 参与前后端核心业务模块开发
-- 实现用户认证、课程管理及订单支付
-- 集成 Redis、RabbitMQ、Elasticsearch，完善系统功能
-- 接入 MinIO，并探索智能推荐与大模型问答
+Java · Spring Cloud · Vue · MySQL · Redis · RabbitMQ · Elasticsearch · MinIO
 
-**技术栈**
+</td> <td width="33%" valign="top">
 
-`Java` `Spring Cloud` `Vue` `MySQL` `Redis` `RabbitMQ` `Elasticsearch` `MinIO`
+<sub>持续探索 / 工程实践</sub>
 
-\</td> \<td width="33%" valign="top">
+🤖 AI Agent
 
-\<sub>持续探索 / 工程实践\</sub>
+AI Agent 应用与后端工程实践
 
-### 🤖 AI Agent
+探索大语言模型与传统后端系统的结合，关注 Agent 的任务执行、工具调用与工程化落地。
 
-**AI Agent 应用与后端工程实践**
+核心工作
 
-探索大语言模型与后端系统的结合，关注 Agent 应用的工程化实现。
+参与 Agent 后端架构设计与任务协调；探索 Spring AI 与 LangGraph 应用开发，学习 RAG 检索增强生成及向量数据库在业务场景中的应用。
 
-**主要工作**
+Java · Python · Spring AI · LangGraph · Milvus
 
-- 参与 Agent 后端架构设计与任务协调
-- 探索 Spring AI、LangGraph 应用开发
-- 实践 RAG 检索增强生成
-- 探索 Milvus 向量检索及业务应用
+</td> <td width="33%" valign="top">
 
-**技术栈**
+<sub>2024.04 — 2025.04</sub>
 
-`Java` `Python` `Spring AI` `LangGraph` `Milvus`
+🧪 虚拟仿真实验平台
 
-\</td>
-\<td width="33%" valign="top">
+流体力学虚拟仿真实验平台
 
-\<sub>2024.04 — 2025.04\</sub>
+面向教学场景，融合交互式学习、学习激励与智能问答。
 
-### 🧪 虚拟仿真实验平台
+核心工作
 
-**流体力学虚拟仿真实验平台**
+参与平台前后端开发，实现学生学习积分与实时反馈、教师监督与教学管理功能，并集成 AI 智能问答，辅助实验学习。
 
-面向实验教学，融合交互学习、积分激励与智能问答。
+Vue · CSS · Spring Boot · MyBatis · MySQL
 
-**主要工作**
-
-- 参与平台前后端功能开发
-- 实现学生积分机制与实时学习反馈
-- 开发教师监督及教学管理功能
-- 集成 AI 问答，辅助实验学习
-
-**技术栈**
-
-`Vue` `CSS` `Spring Boot` `MyBatis` `MySQL`
-
-\</td>
-\</tr>
-\</table>
-
+</td> </tr> </table>
 
 ## 🤖 AI 使用统计
 
