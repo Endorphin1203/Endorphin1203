@@ -1,4 +1,4 @@
-# 👋 你好，我是 Endorphin1203
+# 👋 你好，我是 Endorphin
 
 ### 软件工程背景 · 电子信息硕士研究生 · Java 后端开发 / AI Agent 探索者
 
