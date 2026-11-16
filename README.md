@@ -4,7 +4,7 @@
 
 如果你对我的项目、技术实践或 AI 应用开发感兴趣，欢迎交流！
 
-- 邮箱：mailto:shengyanwu9@gmail.com
+- 邮   箱：shengyanwu9@gmail.com
 - GitHub：[Endorphin1203](https://github.com/Endorphin1203)
 - Tokens：[AI 使用统计主页](https://tokens.ci/u/Endorphin1203)
 
