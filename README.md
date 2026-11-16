@@ -1,7 +1,5 @@
 # 👋 你好，我是 Endorphin1203
 
----
-
 ### 软件工程背景 · 电子信息硕士研究生 · Java 后端开发 / AI Agent 探索者
 
 🎓 浙江师范大学 · 电子信息硕士研究生(在读)
@@ -101,6 +99,7 @@ Vue · CSS · Spring Boot · MyBatis · MySQL
 
 </td> </tr> </table>
 
+---
 ## 🤖 AI 使用统计
 
 持续探索 AI 辅助编程，记录自己在不同 AI 开发工具中的使用情况。
@@ -120,7 +119,6 @@ Vue · CSS · Spring Boot · MyBatis · MySQL
 - 主   页：[慎言的Effective Moments](https://endorphin1203.github.io/)
 - Tokens：[AI 使用统计主页](https://tokens.ci/u/Endorphin1203)
 ---
-
 ⭐ **保持好奇，持续学习，认真写好每一行代码。**
 
 *Keep Learning · Keep Building · Keep Exploring*
