@@ -57,40 +57,57 @@
 
 ## 🚀 项目经历
 
-### 1. 基于 Spring Cloud 的在线教育系统
+<table>
+<tr>
+<td width="33%" valign="top">
 
-一个集课程管理、在线学习、订单支付与智能问答于一体的在线教育平台。
+<sub>毕业设计 / 项目实践</sub>
 
-- 参与系统前后端核心业务模块开发。
-- 实现用户认证、课程管理、订单支付等业务功能。
-- 使用 Redis、RabbitMQ、Elasticsearch 等技术完善系统能力。
-- 集成 MinIO 实现媒体资源管理。
-- 探索协同过滤推荐与大语言模型智能问答。
+🎓 在线教育系统
 
-**技术栈：** Java、Spring Cloud、Vue、MySQL、Redis、RabbitMQ、Elasticsearch、MinIO
+基于 Spring Cloud 的在线教育平台
 
-### 2. AI Agent 应用与后端工程实践
+集课程管理、在线学习、订单支付与智能问答于一体。
+
+核心工作
+
+参与前后端核心业务开发，实现用户认证、课程管理与订单支付；使用 Redis、RabbitMQ、Elasticsearch 完善系统能力，集成 MinIO 管理媒体资源，并探索协同过滤推荐与大模型问答。
+
+Java · Spring Cloud · Vue · MySQL · Redis · RabbitMQ · Elasticsearch · MinIO
+
+</td> <td width="33%" valign="top">
+
+<sub>持续探索 / 工程实践</sub>
+
+🤖 AI Agent
+
+AI Agent 应用与后端工程实践
 
 探索大语言模型与传统后端系统的结合，关注 Agent 的任务执行、工具调用与工程化落地。
 
-- 参与 Agent 后端架构设计与任务协调。
-- 探索 Spring AI 与 LangGraph 应用开发。
-- 学习 RAG 检索增强生成与向量数据库。
-- 关注 AI Agent 在实际业务流程中的应用。
+核心工作
 
-**技术栈：** Java、Python、Spring AI、LangGraph、Milvus
+参与 Agent 后端架构设计与任务协调；探索 Spring AI 与 LangGraph 应用开发，学习 RAG 检索增强生成及向量数据库在业务场景中的应用。
 
-### 3. 流体力学虚拟仿真实验平台
+Java · Python · Spring AI · LangGraph · Milvus
 
-面向教学场景的虚拟仿真实验平台，融合交互式学习、学习激励与智能问答功能。
+</td> <td width="33%" valign="top">
 
-- 参与平台前后端开发。
-- 实现学生学习积分与实时反馈。
-- 开发教师监督与教学管理功能。
-- 集成 AI 智能问答，辅助学生解决实验学习问题。
+<sub>2024.04 — 2025.04</sub>
 
-**技术栈：** Vue、CSS、Spring Boot、MyBatis、MySQL
+🧪 虚拟仿真实验平台
 
+流体力学虚拟仿真实验平台
+
+面向教学场景，融合交互式学习、学习激励与智能问答。
+
+核心工作
+
+参与平台前后端开发，实现学生学习积分与实时反馈、教师监督与教学管理功能，并集成 AI 智能问答，辅助实验学习。
+
+Vue · CSS · Spring Boot · MyBatis · MySQL
+
+</td> </tr> </table>
 ---
 
 ## 🤖 AI 使用统计
